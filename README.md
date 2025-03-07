@@ -26,29 +26,37 @@ b. Ejecutar el comando update-database en la consola de paquetes en visual studi
 #Evidencias
  
 1. Lista de Formularios y botones con el nombre del formulario
-
+![image](https://github.com/user-attachments/assets/94307c03-bb99-48d8-8ab9-c36fcd0dfc26)
 
 
 
 2. Creación de Formularios
+![image](https://github.com/user-attachments/assets/4ab461fc-4ca0-4de3-847a-6f298bc4cb94)
 
 
 3. Edición de Formularios
+![image](https://github.com/user-attachments/assets/5ec7769f-11f4-479c-9f13-46e73effd925)
+
+4. Lista de Imputs de un formulario
+![image](https://github.com/user-attachments/assets/f6f0615a-f801-429c-9a58-7aff9b71e9e5)
+
+5. Creación de Inputs de un formulario
+![image](https://github.com/user-attachments/assets/a4e8b5ce-5806-4434-b664-172aafc3d10b)
 
 
-4. Creación de Inputs de un formulario
+6. Edición de Inputs de un formulario
+![image](https://github.com/user-attachments/assets/4adff5ee-e6ff-4941-8136-a32a339a5995)
 
 
-5. Edición de Inputs de un formulario
+7. Ingreso de Información de un formulario
+![image](https://github.com/user-attachments/assets/e7deaf2c-8ed3-4669-9798-18ab94ccaa38)
 
 
-6. Ingreso de Información de un formulario
+8. Consulta de Información de un formulario
+![image](https://github.com/user-attachments/assets/434aee49-bc61-4f99-a2d7-4f3e7f157b21)
 
 
-7. Consulta de Información de un formulario
-
-
-8. Dashboard Principal
+9. Dashboard Principal
 ![image](https://github.com/user-attachments/assets/7163be2b-0ff6-4b9c-9da3-bbd506a3d473)
 
 
