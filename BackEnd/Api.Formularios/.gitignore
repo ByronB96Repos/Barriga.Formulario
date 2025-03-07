@@ -1,0 +1,26 @@
+# Ignorar carpetas de compilación y dependencias
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+.user
+.suo
+*.userprefs
+*.lock.json
+*.log
+*.nupkg
+packages/
+appsettings.Development.json
+
+# Ignorar archivos de configuración local
+launchSettings.json
+
+# Ignorar archivos de Rider (si usas JetBrains Rider)
+*.sln.iml
+*.csproj.DotSettings.user
+
+# Ignorar archivos de Visual Studio
+*.csproj.user
+*.vbproj.user
+*.fsproj.user
