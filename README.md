@@ -9,15 +9,15 @@
 
 #Ejecucion del Backend
 
-1. Restaurar todos los paquetes para que funcione correctamente las librer韆s.
-2. Configuraci髇 de Base de datos para esto se presenta algunas opciones:
+1. Restaurar todos los paquetes para que funcione correctamente las librer铆as.
+2. Configuraci贸n de Base de datos para esto se presenta algunas opciones:
 a. Restaurar la base de datos por medio del script siempre en (localdb)\mssqllocaldb como servidor.
-b. Ejecutar el comando update-database en la consola de paquetes en visual studio para migrar directamente la base datos vac韆, sin modificar nada porque se encuentra corriendo en localdb.
+b. Ejecutar el comando update-database en la consola de paquetes en visual studio para migrar directamente la base datos vac铆a, sin modificar nada porque se encuentra corriendo en localdb.
  
-3. Ejecuci髇 del Proyecto en un navegador
+3. Ejecuci贸n del Proyecto en un navegador
 4. Ejecutar el Swagger en caso de validar solo el backend
 
-#Ejecuci髇 del Frontend
+#Ejecuci贸n del Frontend
 
 1. Restaurar todos los paquetes con el comando npm install
 2. Comprobar que el backend este activo
@@ -30,25 +30,26 @@ b. Ejecutar el comando update-database en la consola de paquetes en visual studi
 
 
 
-2. Creaci髇 de Formularios
+2. Creaci贸n de Formularios
 
 
-3. Edici髇 de Formularios
+3. Edici贸n de Formularios
 
 
-4. Creaci髇 de Inputs de un formulario
+4. Creaci贸n de Inputs de un formulario
 
 
-5. Edici髇 de Inputs de un formulario
+5. Edici贸n de Inputs de un formulario
 
 
-6. Ingreso de Informaci髇 de un formulario
+6. Ingreso de Informaci贸n de un formulario
 
 
-7. Consulta de Informaci髇 de un formulario
+7. Consulta de Informaci贸n de un formulario
 
 
 8. Dashboard Principal
+![image](https://github.com/user-attachments/assets/7163be2b-0ff6-4b9c-9da3-bbd506a3d473)
 
 
 
